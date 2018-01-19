@@ -1,11 +1,11 @@
 # Site settings
-title: Wind Energy
+title: Hanuman
 description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/Wind Energy/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://zhuxilei.github.io/Wind-Energy" # the base hostname & protocol for your site
+baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://samanyougarg.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
@@ -38,7 +38,7 @@ plugins:
 # Settings for rake task
 safe: False
 lsi: False
-username: zhuxilei #github username
+username: samanyougarg #github username
 repo: hanuman #github repository
 branch: master #branch
 relative_source: ../hanuman/ #source directory
