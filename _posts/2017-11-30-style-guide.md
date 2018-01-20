@@ -20,7 +20,8 @@ author: Author
 <hr />
 <p>Wind power plants—or “wind farms”—generate power across the US and Europe, and with continuing research and development, wind-generated electricity is comparable in cost to other power sources.</p>
 <p>如今，风力发电厂或“风力发电场”在美国和欧洲产生了电力，随着研究和开发的不断深入，风力发电的成本与其他能源不相上下。</p>
-
+<p>Wind energy is becoming more affordable as technology improves. According to RenewableUK, world wind energy capacity doubled every three years between 1990 and 2002, and with each doubling, prices fell by <strong>15%.</strong></p>
+<p>随着技术的进步，风能变得越来越便宜。根据可再生能源公司的数据，从1990年到2002年，世界风能的容量每三年翻一番，每翻一番，价格就会下降<strong>15%。</strong></p>
 
 
 ```
