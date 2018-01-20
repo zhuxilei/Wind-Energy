@@ -11,15 +11,15 @@ author: Author
 
 <h1 id="heading1">History</h1>
 <hr />
-<p>Wind energy propelled boats as early as <strong>5000 B.C.</strong> By 200 B.C., simple windmills in China pumped water, while vertical-axis windmills with woven reed sails were grinding grain in Persia and the Middle East. By the 11th century, people used windmills for food production.
-早在公元前<strong>5000年</strong>左右，风力推动的船只就开始了。在中国，简单的风车泵水，而在波斯和中东的垂直轴风车和编织的芦苇帆正在研磨谷物。到了11世纪，人们用风车来生产粮食。
+<p>Wind energy propelled boats as early as <strong>5000 B.C.</strong> By 200 B.C., simple windmills in China pumped water, while vertical-axis windmills with woven reed sails were grinding grain in Persia and the Middle East. By the 11th century, people used windmills for food production.</p>
+<p>早在公元前<strong>5000年</strong>左右，风力推动的船只就开始了。在中国，简单的风车泵水，而在波斯和中东的垂直轴风车和编织的芦苇帆正在研磨谷物。到了11世纪，人们用风车来生产粮食。</p>
 
 <hr />
 
 <h1 id="heading1">Today</h1>
 <hr />
-<p>Wind power plants—or “wind farms”—generate power across the US and Europe, and with continuing research and development, wind-generated electricity is comparable in cost to other power sources.
-如今，风力发电厂或“风力发电场”在美国和欧洲产生了电力，随着研究和开发的不断深入，风力发电的成本与其他能源不相上下。
+<p>Wind power plants—or “wind farms”—generate power across the US and Europe, and with continuing research and development, wind-generated electricity is comparable in cost to other power sources.</p>
+<p>如今，风力发电厂或“风力发电场”在美国和欧洲产生了电力，随着研究和开发的不断深入，风力发电的成本与其他能源不相上下。</p>
 
 
 
