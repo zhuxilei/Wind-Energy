@@ -4,7 +4,7 @@ cover: 'assets/images/shiva.jpg'
 title: History&Today
 date: 2018-01-20 17:00:00
 tags: China
-author: Author
+author: Ellie
 ---
 
 <hr />
