@@ -23,42 +23,20 @@ author: Ellie
 <p>Wind energy is becoming more affordable as technology improves. According to RenewableUK, world wind energy capacity doubled every three years between 1990 and 2002, and with each doubling, prices fell by <strong>15%.</strong></p>
 <p>随着技术的进步，风能变得越来越便宜。根据可再生能源公司的数据，从1990年到2002年，世界风能的容量每三年翻一番，每翻一番，价格就会下降<strong>15%。</strong></p>
 
+<div id="container"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+    var gitment = new Gitment({
+        id: '页面 ID', // 可选。这个选项不写（不是留空），默认为 location.href
+        owner: 'zhuxilei',
+        repo: 'Wind-Energy',
+        oauth: {
+            client_id: '8ceff2601f337f41961a',
+            client_secret: '70d7b6e95b4141bfa4af625dd7e48f78e839973f',
+        },
+     });
+    gitment.render('container'); //container为你要显示评论的id
+</script>
 
-<main class="flex flex-wrap justify-around align-item items-center" markdown="0">
-<div class="flex flex-column items-center">
-  <label class="www-example-label bold mb3">Comment Area</label>
-  <div class="ampstart-input inline-block relative m0 p0 mb3 ">
-    <textarea name="name13" id="ip13" class="block border-none  p0 m0" rows="2"></textarea>
-    <label for="ip13" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">Write your comment</label>
-  </div>
-</div>
-</main>
-<main class="flex flex-wrap justify-around align-item items-center" markdown="0">
-<div class="flex flex-column items-center">
-  <label class="www-example-label bold mb3">User Info</label>
-  <div class="ampstart-input inline-block relative m0 p0 mb3 ">
-    <input type="text" value="" name="name1" id="ip1" class="block border-none p0 m0 user-valid valid" placeholder="Enter your Name">
-    <label for="ip1" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">Enter your Name</label>
-  </div>
-</div>
-</main>
-<main class="flex flex-wrap justify-around align-item items-center" markdown="0">
-<div class="flex flex-column items-center">
-  <div class="ampstart-input inline-block relative m0 p0 mb3 ">
-    <select name="name12" id="ip12" class="block border-none p0 m0 user-valid valid">
-        <option value="">China</option>
-        <option value="">United States</option>
-        <option value="">Japan</option>
-        <option value="">South Korea</option>
-    </select>
-    <label for="ip12" class="absolute top-0 right-0 bottom-0 left-0" aria-hidden="true">Select your country</label>
-  </div>
-</div>
-</main>
-<main class="flex flex-wrap justify-around align-item items-center">
-<div class="flex flex-column mb2 items-center">
-<button class="ampstart-btn">
-SUBMIT
-</button>
-</div>
-<div class="flex flex-column mb2 items-center">
+
