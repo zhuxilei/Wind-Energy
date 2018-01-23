@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 <p>email: zhuxilei511@gmail.com</p>
