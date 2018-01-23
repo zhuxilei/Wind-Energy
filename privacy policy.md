@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /privacy policy/
+permalink: /privacy-policy/
 ---
 <p>Thanks for accessing the website ("Site") of zhuxilei.github.io/Wind-Energy. We respect customers' privacy and want to protect customers' personal information. 
 
