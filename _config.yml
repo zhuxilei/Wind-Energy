@@ -9,7 +9,7 @@ url: "https://zhuxilei.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 # Social
-facebook: facebook
+facebook: profile.php?id=100010296014740
 twitter: XileiZ
 github:  zhuxilei
 
