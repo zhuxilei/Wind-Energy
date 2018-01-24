@@ -11,7 +11,7 @@ Over the years, a dominant design has emerged, which consists of 3 blades, mostl
 
 <h3 id="heading2">Other Design Decision</h3>
 
-<p><strong>Generator & Drive Train</strong>/<p>
+<p><strong>Generator & Drive Train</strong></p>
 <p>Direct: No gearbox needed, requires a synchronous generator Less noise than with gearbox, but more expensive. Prominent example: Enercon wind turbines.</p>
 <p>Indirect: The rotor drives a gearbox, which drives the asynchronous generator at around 1000rpm.</p>
 
