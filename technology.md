@@ -56,4 +56,35 @@ Over the years, a dominant design has emerged, which consists of 3 blades, mostl
 <li>Example: Enercon</li>
 </ul>
 
-<amp-img src="{{ site.baseurl }}assets/images/shiva.jpg" width="656" height="400" layout="responsive" alt="" class="mb3"></amp-img>
+
+<h3 id="heading2">Rotor Axis Direction and Number of Blades</h3>
+
+<p><strong>Vertical</strong><p>
+<p>The rotor axis is perpendicular to the wind direction. Some designs use draf, others use lift forces.</p>
+
+<p>The most widely used application is the wind anemometer with its moving cups. Small-scale roof-top turbines are also often with a vertical axis to avoid gear box.</p>
+
+<p>Lift</p>
+
+<p>Darrieus</p>
+<amp-img src="{{ site.baseurl }}assets/images/wind6.jpg" width="120" height="120" layout="responsive" alt="" class="mb3"></amp-img>
+<p> tip speed ratio: 4</p>
+
+<p>Savonius </p>
+<amp-img src="{{ site.baseurl }}assets/images/wind7.jpg" width="120" height="120" layout="responsive" alt="" class="mb3"></amp-img>
+<p>tip speed ratio: <1 </p>
+
+<p>Drag</p>
+<p>Wind Anemometer </p>
+<amp-img src="{{ site.baseurl }}assets/images/wind5.jpg" width="120" height="120" layout="responsive" alt="" class="mb3"></amp-img>
+
+<ul>
+	<li>Omni-direction - wind may come from any direction</li>
+<li>Easy to mount at ground level, no tower needed</li>
+<li>Low rotation speed - no gearbox needed - less noise</li>
+<li>Generally near the ground with low wind speeds</li>
+<li>Self-starting problems</li>
+<li>Drag devices capture only ~15% of energy, Darrieus ~40%.</li>
+<li>No large-scale commercial application</li>	
+
+</ul>
