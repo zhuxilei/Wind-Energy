@@ -1,3 +1,8 @@
+---
+layout: page
+title: Technology
+permalink: /technology/
+---
 <div class="panel1">
 	<div class="panel1_header_grey">
     	<div class="header_spacer"> Rotor Axis Direction and Number of Blades</div>
