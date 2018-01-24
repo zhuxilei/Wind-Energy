@@ -14,6 +14,7 @@ permalink: /about/
 
 
 <h1 id="heading1">How much power is in wind energy?</h1>
+<amp-img src="{{ site.baseurl }}assets/images/wind3.jpg" width="532" height="221" layout="responsive" alt="" class="mb3"></amp-img>
 <p>When air mass is flowing through an area A with speed v, the power of that air movement at time t is given by:</p>
 <amp-img src="{{ site.baseurl }}assets/images/wind1.bmp" width="191" height="34" layout="responsive" alt="" class="mb3"></amp-img>
 <p>where ρ is the density of air, which is around 1.22kg/m³. The energy (kWh) is the product of power and time:</p>
@@ -22,4 +23,3 @@ permalink: /about/
 
 <p>While the air density is more or less constant, the two parameters to watch out for are the wind swept area, A, and the wind speed v. The latter is even more critical, as it is cubed. A location with double average wind speed has 8 times the power for the same area. Or - to capture the same energy, the blades of the wind turbine in the low wind speed location would have to be almost 3 times as long. </p>
 
-<amp-img src="{{ site.baseurl }}assets/images/wind3.jpg" width="532" height="221" layout="responsive" alt="" class="mb3"></amp-img>
