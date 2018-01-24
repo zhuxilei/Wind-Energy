@@ -11,7 +11,7 @@ Over the years, a dominant design has emerged, which consists of 3 blades, mostl
 
 <h3 id="heading2">Other Design Decision</h3>
 
-<p><strong>Generator & Drive Train</strong><p>
+<p><strong>Generator & Drive Train</strong>/<p>
 <p>Direct: No gearbox needed, requires a synchronous generator Less noise than with gearbox, but more expensive. Prominent example: Enercon wind turbines.</p>
 <p>Indirect: The rotor drives a gearbox, which drives the asynchronous generator at around 1000rpm.</p>
 
@@ -22,14 +22,14 @@ Over the years, a dominant design has emerged, which consists of 3 blades, mostl
 <li>Lightweight glass-enforced plastic - this is most common among large blades - 50 to 100m long. </li>
 </ul>
 	
-<p><strong>Yaw Mechanism  </strong><p>
+<p><strong>Yaw Mechanism  </strong></p>
 <p>Yaw mechanism moves the nacelle of a horizontal turbine around its tower into the wind when the wind direction changes.</p>
 <ul>
 <li>Passive: with a fin attached to the nacelle on the opposite side of the rotor.</li>
 <li>Active: with a motor</li>
 </ul>
 
-<p><strong>Tower</strong><p>
+<p><strong>Tower</strong></p>
 	
 <p>Steel tube</p>
 <ul>
@@ -59,7 +59,7 @@ Over the years, a dominant design has emerged, which consists of 3 blades, mostl
 
 <h3 id="heading2">Rotor Axis Direction and Number of Blades</h3>
 
-<p><strong>Vertical</strong><p>
+<p><strong>Vertical</strong></p>
 <p>The rotor axis is perpendicular to the wind direction. Some designs use draf, others use lift forces.</p>
 
 <p>The most widely used application is the wind anemometer with its moving cups. Small-scale roof-top turbines are also often with a vertical axis to avoid gear box.</p>
