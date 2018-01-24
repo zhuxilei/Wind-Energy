@@ -23,3 +23,8 @@ permalink: /about/
 
 <p>While the air density is more or less constant, the two parameters to watch out for are the wind swept area, A, and the wind speed v. The latter is even more critical, as it is cubed. A location with double average wind speed has 8 times the power for the same area. Or - to capture the same energy, the blades of the wind turbine in the low wind speed location would have to be almost 3 times as long. </p>
 
+
+<h1 id="heading1">The principles of conversion</h1>
+<amp-img src="{{ site.baseurl }}assets/images/wind4.jpg" width="772" height="285" layout="responsive" alt="" class="mb3"></amp-img>
+<p>There are two forces in play: Lift and Drag. The Lift Force is perpendicular to the wind direction. It is caused by a pressure difference between the air on either side of the blade. The Drag Force is in the same direction as the wind. The ratio between lift and drag largely depends on the shape of the blade and the angle of the main line of the blade (chord line) and the main wind direction - the angle of attack. The lift force is largest for streamlined.</p>
+<p>Depending on the design of the turbine, either drag or lift moves the blades. Most wind turbines today use the prinicple of lift rather than drag.</p>
